@@ -1,0 +1,10 @@
+CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+RAM: 16326 MB
+OS: 8.1 64b
+VIDEO: Unknown
+LANG: cht
+3DHW: true
+SWBlt: false
+Primary: true
+Windowed: true
+Server: 203.70.8.215#1
