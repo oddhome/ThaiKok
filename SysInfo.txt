@@ -1,6 +1,6 @@
-CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
-RAM: 16326 MB
-OS: 8.1 64b
+CPU: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+RAM: 16241 MB
+OS: 8 64b
 VIDEO: Unknown
 LANG: cht
 3DHW: true
